@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuttipatsnj&label=Profile%20views&color=0e75b6&style=flat" alt="wuttipatsnj" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, Flutter , React**
+- 🌱 I’m currently learning **Python, JavaScript, Flutter, React, C#**
 
 - 👨‍💻 All of my projects are available at [This github]
 
